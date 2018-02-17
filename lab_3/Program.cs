@@ -10,6 +10,11 @@ namespace lab_3
     {
         static void Main(string[] args)
         {
+
+            MyReader reader = new MyReader();
+
+
+            Console.ReadKey();
         }
     }
 }
